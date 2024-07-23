@@ -1,0 +1,9 @@
+.color-button {
+    width: 200px;
+    height: 80px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+   
+    background-color: gray;
+}
